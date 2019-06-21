@@ -1,8 +1,9 @@
-### 一、开场白
-哈喽，这里是`杰斯特`试炼场，将提供你测试工具`Jest`之试炼，让我们开始吧！
+### Prologue
+Hello, Welcome to the JEST's trialground. You can learn how to use `Jest` to as your testing tools here.
+Let's go!
 
 <br>
 
-### 二、初级试炼
-在本试炼里，你将获知如何最快地使用`Jest`。`Jest`可以方便地用来做单元测试：
-- `/src/sum.js`，待单元
+### Content
+- `/src/sum.js`，`/test/sum.test.js` The easiest sample for setting up
+- `/test/matcher.test.js` Sample of matchers
